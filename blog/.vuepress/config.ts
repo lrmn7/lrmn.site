@@ -122,6 +122,7 @@ export default defineUserConfig({
         repo: "This-is-an-Apple/blog-giscus-comments",
         repoId: "R_kgDOJyHyGw",
         category: "Announcements",
+        category: "Announcements",
         categoryId: "DIC_kwDOJyHyG84CXXHd",
         darkTheme: "/styles/giscus-dark.css"
 
