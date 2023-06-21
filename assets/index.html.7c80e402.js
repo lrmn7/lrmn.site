@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-282a0bca","path":"/tags/personal-best/","title":"Personal Best | Tags","lang":"en-US","frontmatter":{"title":"Personal Best | Tags","layout":"Tags","blog":{"type":"category","name":"Personal Best","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
