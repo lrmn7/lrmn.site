@@ -1,5 +1,5 @@
 {
-  "name": "lrmn-blog",
+  "name": "lrmn-links",
   "private": true,
   "scripts": {
     "clean": "rimraf blog/.vuepress/.temp blog/.vuepress/.cache blog/.vuepress/dist",
@@ -9,8 +9,6 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-beta.50-pre.1",
-    "@vuepress/cli": "2.0.0-beta.49",
-    "@vuepress/bundler-vite": "2.0.0-beta.49",
     "@vuepress/cli": "2.0.0-beta.50-pre.1",
     "@vuepress/client": "2.0.0-beta.49",
     "oh-vue-icons": "^1.0.0-rc3",
