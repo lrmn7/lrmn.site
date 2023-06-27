@@ -12,6 +12,10 @@ links:
         url: http://ohmycv.is-a.fun/
         img: /img/links/ohcv.svg
         desc: builder curriculum vitae in Markdown online.
+      - sitename: Bacotin
+        url: https://bacotin.is-a.fun/
+        img: /img/links/bacot.jpg
+        desc: Sebuah web berisikan Perkataan, Komentar, atau bacot random. Suka suka mu lah
       - sitename: Qr Code Generator
         url: http://qr-generator.is-a.fun/
         img: /img/links/qrcode.svg
@@ -84,10 +88,6 @@ links:
         url: https://waifu-music.is-a.fun/
         img: /img/links/waifu.png
         desc: A music Discord bot made with discord.js and distube for player.
-      - sitename: Chit Chat
-        url: https://chitchat.is-a.fun/
-        img: /img/links/chitchat.png
-        desc: Kini obrolan akan jauh lebih menyenangkan apabila sambil menghadapi Error 503
   - title: CONNECT WITH ME
     items:
       - sitename: Portfolio & Blog
