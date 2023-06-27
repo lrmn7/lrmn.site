@@ -12,6 +12,10 @@ links:
         url: http://ohmycv.is-a.fun/
         img: /img/links/ohcv.svg
         desc: builder curriculum vitae in Markdown online.
+      - sitename: Bacotin
+        url: https://bacotin.lrmn.site/
+        img: /img/links/bacot.jpg
+        desc: Sebuah web berisikan Perkataan, Komentar, atau bacot random. Suka suka mu lah
       - sitename: Qr Code Generator
         url: http://qr-generator.is-a.fun/
         img: /img/links/qrcode.svg
@@ -84,10 +88,6 @@ links:
         url: https://waifu-music.is-a.fun/
         img: /img/links/waifu.png
         desc: A music Discord bot made with discord.js and distube for player.
-      - sitename: Chit Chat
-        url: https://chitchat.is-a.fun/
-        img: /img/links/chitchat.png
-        desc: Kini obrolan akan jauh lebih menyenangkan apabila sambil menghadapi Error 503
   - title: CONNECT WITH ME
     items:
       - sitename: Portfolio & Blog
@@ -98,7 +98,7 @@ links:
         url: https://is-a.fun
         img: /img/links/bio.png
         desc: Tautan sosial media
-      - sitename: Blog with mkdocs material
+      - sitename: Daily Dev
         url: https://lrmn.is-a.dev/docs
         img: /img/links/docs.png
         desc: Personal blog Made with ❤️ using mkdocs and materials for mkdocs theme.
@@ -106,11 +106,15 @@ links:
         url: https://www.pagarrumahkita.my.id/
         img: /img/links/blogger.png
         desc: Personal blog Made with ❤️ using blogger.com
-      - sitename: Virtual Photography
-        url: https://lrmn-vp.is-a.fun
+      - sitename: VP 2
+        url: https://lrmn-vp.is-a.fun/
+        img: /img/links/vp2.png
+        desc: gallery & blog photography video game
+      - sitename: VP 1
+        url: https://vp-lrmn.is-a.fun/
         img: /img/links/vp.png
         desc: gallery & blog photography video game
-      - sitename: Blog - Penikmat Kata
+      - sitename: Penikmat Kata
         url: https://istirahatsejenak.is-a.fun/
         img: /img/links/istirahatsejenak.png
         desc: Hanya penikmat kata yang akan menjadi kalimat pada akhirnya.

@@ -44,7 +44,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: gungnirTheme({
-    repo: "lrmn7/note",
+    repo: "lrmn7/daily-dev",
     docsDir: "blog",
     docsBranch: "main",
 
@@ -67,31 +67,39 @@ export default defineUserConfig({
     // header images on home page
     homeHeaderImages: [
       {
-        path: "/img/home-bg/6.png",
+        path: "/img/home-bg/hzd.jpg",
         mask: "rgba(40, 57, 101, .4)"
       },
       {
-        path: "/img/home-bg/7.png",
+        path: "/img/home-bg/tlou1.jpg",
         mask: "rgba(196, 176, 131, .1)"
       },
       {
-        path: "/img/home-bg/8.png",
+        path: "/img/home-bg/tlou2.png",
         mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/9.png",
+        path: "/img/home-bg/got.png",
         mask: "rgba(19, 75, 50, .2)"
       },
       {
-        path: "/img/home-bg/10.png",
+        path: "/img/home-bg/sm.png",
         mask: "rgba(19, 75, 50, .2)"
       },
       {
-        path: "/img/home-bg/11.png",
+        path: "/img/home-bg/gow.png",
         mask: "rgba(19, 75, 50, .2)"
       },
       {
-        path: "/img/home-bg/12.png"
+        path: "/img/home-bg/ride4.png",
+        mask: "rgba(19, 75, 50, .2)"
+      },
+      {
+        path: "/img/home-bg/thecrew2.png",
+        mask: "rgba(19, 75, 50, .2)"
+      },
+      {
+        path: "/img/home-bg/ac.png"
       }
     ],
 
@@ -159,11 +167,11 @@ export default defineUserConfig({
       },
       {
         text: "Docs",
-        link: "https://lrmn.is-a.dev/docs",
+        link: "https://lrmn.is-a.dev/daily-dev",
         icon: "fa-book"
       },
       {
-        text: "Portfolio",
+        text: "Profile",
         link: "https://lrmn.is-a.dev/",
         icon: "oi-rocket"
       }
