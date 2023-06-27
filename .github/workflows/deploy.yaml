@@ -31,11 +31,7 @@ jobs:
           cache: pnpm
 
       - name: Install dependencies
-<<<<<<< HEAD
-        run: pnpm install
-=======
         run: pnpm install --no-frozen-lockfile
->>>>>>> 56a99c34861761e584affaea4d7cef5647b1b5a9
 
       - name: Build site
         run: pnpm build
