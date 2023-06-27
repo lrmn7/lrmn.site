@@ -13,7 +13,7 @@ links:
         img: /img/links/ohcv.svg
         desc: builder curriculum vitae in Markdown online.
       - sitename: Bacotin
-        url: https://bacotin.is-a.fun/
+        url: https://bacotin.lrmn.site/
         img: /img/links/bacot.jpg
         desc: Sebuah web berisikan Perkataan, Komentar, atau bacot random. Suka suka mu lah
       - sitename: Qr Code Generator
@@ -98,7 +98,7 @@ links:
         url: https://is-a.fun
         img: /img/links/bio.png
         desc: Tautan sosial media
-      - sitename: Blog with mkdocs material
+      - sitename: Daily Dev
         url: https://lrmn.is-a.dev/docs
         img: /img/links/docs.png
         desc: Personal blog Made with ❤️ using mkdocs and materials for mkdocs theme.
@@ -106,11 +106,15 @@ links:
         url: https://www.pagarrumahkita.my.id/
         img: /img/links/blogger.png
         desc: Personal blog Made with ❤️ using blogger.com
-      - sitename: Virtual Photography
-        url: https://lrmn-vp.is-a.fun
+      - sitename: VP 2
+        url: https://lrmn-vp.is-a.fun/
+        img: /img/links/vp2.png
+        desc: gallery & blog photography video game
+      - sitename: VP 1
+        url: https://vp-lrmn.is-a.fun/
         img: /img/links/vp.png
         desc: gallery & blog photography video game
-      - sitename: Blog - Penikmat Kata
+      - sitename: Penikmat Kata
         url: https://istirahatsejenak.is-a.fun/
         img: /img/links/istirahatsejenak.png
         desc: Hanya penikmat kata yang akan menjadi kalimat pada akhirnya.
