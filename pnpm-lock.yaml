@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@vuepress/bundler-vite':
-    specifier: 2.0.0-beta.49
-    version: 2.0.0-beta.49(sass@1.63.5)
+    specifier: 2.0.0-beta.50-pre.1
+    version: 2.0.0-beta.50-pre.1
   '@vuepress/cli':
     specifier: 2.0.0-beta.50-pre.1
     version: 2.0.0-beta.50-pre.1
@@ -1697,6 +1697,17 @@ packages:
       vue: 3.2.37
     dev: true
 
+  /@vitejs/plugin-vue@3.2.0(vite@3.0.9)(vue@3.2.37):
+    resolution: {integrity: sha512-E0tnaL4fr+qkdCNxJ+Xd0yM31UwMkQje76fsDVBBUCoGOUPexu2VDUYHL8P4CwV+zMvWw6nlRw19OnRKmYAJpw==}
+    engines: {node: ^14.18.0 || >=16.0.0}
+    peerDependencies:
+      vite: ^3.0.0
+      vue: ^3.2.25
+    dependencies:
+      vite: 3.0.9
+      vue: 3.2.37
+    dev: true
+
   /@vue/compiler-core@3.2.37:
     resolution: {integrity: sha512-81KhEjo7YAOh0vQJoSmAD68wLfYqJvoiD4ulyedzF+OEk/bk6/hx3fTNVfuzugIIaTrOx4PGx6pAiBRe5e9Zmg==}
     dependencies:
@@ -1808,6 +1819,29 @@ packages:
       - sass
       - stylus
       - supports-color
+    dev: true
+
+  /@vuepress/bundler-vite@2.0.0-beta.50-pre.1:
+    resolution: {integrity: sha512-uPEVOAriwnfpvBapuGcko0a84J7MAeYrRO1N2BFRQVXyVOSqNZNIsZS7PVjB43rTXv1mVXFUi6HHmSeYUuSj6w==}
+    dependencies:
+      '@vitejs/plugin-vue': 3.2.0(vite@3.0.9)(vue@3.2.37)
+      '@vuepress/client': 2.0.0-beta.50-pre.1
+      '@vuepress/core': 2.0.0-beta.50-pre.1
+      '@vuepress/shared': 2.0.0-beta.50-pre.1
+      '@vuepress/utils': 2.0.0-beta.50-pre.1
+      autoprefixer: 10.4.14(postcss@8.4.24)
+      connect-history-api-fallback: 2.0.0
+      postcss: 8.4.24
+      rollup: 2.79.1
+      vite: 3.0.9
+      vue: 3.2.37
+      vue-router: 4.2.2(vue@3.2.37)
+    transitivePeerDependencies:
+      - less
+      - sass
+      - stylus
+      - supports-color
+      - terser
     dev: true
 
   /@vuepress/cli@2.0.0-beta.49:
@@ -5332,6 +5366,33 @@ packages:
       resolve: 1.22.2
       rollup: 2.77.3
       sass: 1.63.5
+    optionalDependencies:
+      fsevents: 2.3.2
+    dev: true
+
+  /vite@3.0.9:
+    resolution: {integrity: sha512-waYABTM+G6DBTCpYAxvevpG50UOlZuynR0ckTK5PawNVt7ebX6X7wNXHaGIO6wYYFXSM7/WcuFuO2QzhBB6aMw==}
+    engines: {node: ^14.18.0 || >=16.0.0}
+    hasBin: true
+    peerDependencies:
+      less: '*'
+      sass: '*'
+      stylus: '*'
+      terser: ^5.4.0
+    peerDependenciesMeta:
+      less:
+        optional: true
+      sass:
+        optional: true
+      stylus:
+        optional: true
+      terser:
+        optional: true
+    dependencies:
+      esbuild: 0.14.54
+      postcss: 8.4.24
+      resolve: 1.22.2
+      rollup: 2.77.3
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
