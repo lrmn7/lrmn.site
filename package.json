@@ -1,5 +1,5 @@
 {
-  "name": "lrmn-blog",
+  "name": "lrmn-site",
   "private": true,
   "scripts": {
     "clean": "rimraf blog/.vuepress/.temp blog/.vuepress/.cache blog/.vuepress/dist",

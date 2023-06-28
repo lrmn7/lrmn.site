@@ -99,7 +99,7 @@ links:
         img: /img/links/bio.png
         desc: Tautan sosial media
       - sitename: Daily Dev
-        url: https://lrmn.is-a.dev/docs
+        url: https://lrmn.is-a.dev/daily-dev
         img: /img/links/docs.png
         desc: Personal blog Made with ❤️ using mkdocs and materials for mkdocs theme.
       - sitename: Blogger
@@ -107,11 +107,11 @@ links:
         img: /img/links/blogger.png
         desc: Personal blog Made with ❤️ using blogger.com
       - sitename: VP 2
-        url: https://lrmn-vp.is-a.fun/
+        url: https://lrmn-vp.site/
         img: /img/links/vp2.png
         desc: gallery & blog photography video game
       - sitename: VP 1
-        url: https://vp-lrmn.is-a.fun/
+        url: https://vp-lrmn.site/
         img: /img/links/vp.png
         desc: gallery & blog photography video game
       - sitename: Penikmat Kata

@@ -139,7 +139,7 @@ export default defineUserConfig({
       },
       ga: "G-NMRL9RCVH9",
       rss: {
-        siteURL: "https://lrmn.is-a.fun",
+        siteURL: "https://lrmn.site",
         copyright: "L RMN 2018-2022"
       }
     },
@@ -162,7 +162,7 @@ export default defineUserConfig({
       },
       {
         text: "Gallery",
-        link: "https://lrmn-vp.is-a.fun",
+        link: "https://lrmn-vp.site",
         icon: "fa-paw"
       },
       {
