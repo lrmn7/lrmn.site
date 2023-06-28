@@ -111,7 +111,7 @@ links:
         img: /img/links/vp2.png
         desc: gallery & blog photography video game
       - sitename: VP 1
-        url: https://vp-lrmn.site/
+        url: https://lrmn-vp.is-a.fun/
         img: /img/links/vp.png
         desc: gallery & blog photography video game
       - sitename: Penikmat Kata
