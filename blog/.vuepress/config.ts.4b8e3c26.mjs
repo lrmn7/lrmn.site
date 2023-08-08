@@ -40,7 +40,7 @@ var config_default = defineUserConfig({
   ],
   bundler: viteBundler(),
   theme: gungnirTheme({
-    repo: "lrmn7/daily-dev",
+    repo: "lrmn7/lrmn.site",
     docsDir: "blog",
     docsBranch: "main",
     personalInfo: {
@@ -49,7 +49,7 @@ var config_default = defineUserConfig({
       description: "\u3044\u3064\u304B\u3001\u79C1\u304C\u30D2\u30C8\u3058\u3083\u306A\u304F\u306A\u3063\u3066\u3082",
       sns: {
         github: "lrmn7",
-        twitter: "romanromannya",
+        // twitter: "romanromannya",
         email: "lrmn.dev@gmail.com",
         rss: "/rss.xml"
       }

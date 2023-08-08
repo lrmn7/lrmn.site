@@ -44,7 +44,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: gungnirTheme({
-    repo: "lrmn7/daily-dev",
+    repo: "lrmn7/lrmn.site",
     docsDir: "blog",
     docsBranch: "main",
 
@@ -58,7 +58,7 @@ export default defineUserConfig({
       sns: {
         github: "lrmn7",
         // facebook: "lrmn",
-        twitter: "romanromannya",
+        // twitter: "romanromannya",
         email: "lrmn.dev@gmail.com",
         rss: "/rss.xml"
       }

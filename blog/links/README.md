@@ -2,20 +2,48 @@
 layout: Links
 title: Links
 links:
-  - title: PROJECTS
+  - title: MINI PROJECTS
     items:
-      - sitename: Donlod
-        url: https://donlod.hop.sh
-        img: /img/links/donlod.svg
-        desc: donlod adalah tempat terbaik kamu untuk download video sosial media tanpa iklan, pelacak, atau omong kosong lainnya.
+      - sitename: OhMyTOOLS!
+        url: https://ohmytools.is-a.fun/
+        img: /img/links/ohmytools.png
+        desc: free tools online, images, css, pdf, color converter and etc
       - sitename: Oh, CV!
         url: http://ohmycv.is-a.fun/
         img: /img/links/ohcv.svg
         desc: builder curriculum vitae in Markdown online.
-      - sitename: Bacotin
+      - sitename: Oh, RESUME!
+        url: https://ohmyresume.vercel.app/
+        img: /img/links/resume.webp
+        desc: The easiest way to build a professional resume. Create your resume with OhMyRESUME
+      - sitename: OhEMOJI
+        url: https://ohemoji.is-a.fun/
+        img: /img/links/ohemojiog.jpg
+        desc: Copy & Paste Emoji is a web application that has a list of emojis in different categories
+      - sitename: Emoji Maker!
+        url: https://emoji-maker.is-a.fun/
+        img: /img/links/emojimaker.png
+        desc: Generate your own Emojis! 🤣, Assets are from Fluent Emoji by Microsoft. Remixed and partially modified.
+      - sitename: Emoji Search!
+        url: https://emoji-search.is-a.fun/
+        img: /img/links/emojisearch.png
+        desc: Simple React app for searching emoji 🤣
+      - sitename: Spotify OBS!
+        url: https://spotify-obs.vercel.app/
+        img: /img/links/spotifyobs.png
+        desc: A widget OBS that shows what is currently playing on your spotify.
+      - sitename: Gabut Room!
+        url: https://gabutroom.vercel.app/
+        img: /img/links/gabutroom.png
+        desc: it's a (very) basic chat website with a singular chat room (but technically more can be created with small adjustments)
+      - sitename: Bacotin!
         url: https://bacotin.lrmn.site/
         img: /img/links/bacot.jpg
         desc: Sebuah web berisikan Perkataan, Komentar, atau bacot random. Suka suka mu lah
+      - sitename: ohCLiPS!
+        url: https://ohclips.vercel.app/
+        img: /img/links/ohclips.png
+        desc: Gaming clips sharing platform built using Vue, Express, Redis, Firebase, TailwindCSS and more.
       - sitename: Qr Code Generator
         url: http://qr-generator.is-a.fun/
         img: /img/links/qrcode.svg
@@ -61,7 +89,7 @@ links:
         img: /img/links/pramuka.png
         desc: Kumpulan informasi digital mengenai berbagai materi pramuka, materi kenegaraan dan materi kecakapan umum
       - sitename: Habede (HBD)
-        url: https://github.com/lrmn7/happybirthdayforyou
+        url: https://lrmn.is-a.dev/happybirthdayforyou/
         img: /img/links/habede.jpg
         desc: Say Happy Birthday with Webpage for someone
       - sitename: Kartu Bermain 1001 Cara Bicara
@@ -72,30 +100,68 @@ links:
         url: http://lrmn.is-a.dev/bucinin/
         img: /img/links/bucin.png
         desc: Bucin dulu biar engga stress 🥴
-      - sitename: Bill Gates Meme Maker 👨🏼‍💻
-        url: https://lrmn.is-a.dev/BillGatesMeme/
-        img: /img/links/memebillgates.png
-        desc: This website allows user to put images into the main screen, binder and second screen by warping the images and combining them useing html canvas. This project was made using html, css and javascript. Please Enjoy 😃
+  - title: DISCORD BOT
+    items:
       - sitename: Lucy
-        url: https://halucy.is-a.fun/
-        img: /img/links/lucy.png
+        url: https://hai-lucy.github.io/
+        img: /img/links/newlucy.png
         desc: Discord.js v14 Bot Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket Utility and More
-      - sitename: Yui`s Music
-        url: https://yui-music.is-a.fun/
-        img: /img/links/yui.png
-        desc: Yui`s Music - Yui`s is a Discord music bot that uses Discord.js, Shoukaku, Prisma Client (ORM) database (MongoDB), and TypeScript.
-      - sitename: Waifu Music & Anime
-        url: https://waifu-music.is-a.fun/
-        img: /img/links/waifu.png
-        desc: A music Discord bot made with discord.js and distube for player.
+      - sitename: L`RMN
+        url: https://bot.lrmn.site/
+        img: /img/links/lrmnbot.png
+        desc: Bot Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music,Social, Statistics, Suggestion, Ticket Utility and More
+      - sitename: Soothe
+        url: https://soothe-bot.github.io/
+        img: /img/links/soothe.png
+        desc: a discord music bot with many commands , buttons , 24/7 , autoresume ,etc
+      - sitename: Naisha
+        url: https://naisha-bot.github.io/
+        img: /img/links/naisha.png
+        desc: konnichiwa, watashi wa naisha desu, naisha discord bot multipurpose
+      - sitename: Lucy Radio
+        url: https://lucyradio.vercel.app/
+        img: /img/links/lucy.png
+        desc: Discord bot that plays over 340 lofi music on your server.
+      - sitename: Clarisha
+        url: https://clarishabot.github.io/
+        img: /img/links/clarisha.png
+        desc: clarisha is a highly-opinionated midwestern self-hosted Discord music bot that doesn't suck.
+      - sitename: Santuy
+        url: https://santuy.is-a.fun/
+        img: /img/links/santuy.png
+        desc: Advance Discord Music Bot |  Santuykan harimu dengan musik:)
   - title: CONNECT WITH ME
     items:
-      - sitename: Portfolio & Blog
+      - sitename: Personal Web V1
         url: https://lrmn.is-a.dev
-        img: /img/links/profile.png
+        img: /img/links/p1.png
         desc: My portfolio & blog website developed with NextJS, TypeScript, and TailwindCSS. Markdown is used for contents.
-      - sitename: Sosial Link
+      - sitename: Personal Web V2
+        url: https://lrmn619.vercel.app/
+        img: /img/links/p2.png
+        desc: This is my personal web, developed with NextJS, TypeScript
+      - sitename: Personal Web V3
+        url: https://lrmn-dev.vercel.app/
+        img: /img/links/p3.png
+        desc: Personal website pixel themes
+      - sitename: Personal Web V4
+        url: https://lrmn.site
+        img: /img/links/p4.png
+        desc: This is my blog, it is powered by VuePress 2
+      - sitename: Personal Web V5
+        url: https://hii.lrmn.site/
+        img: /img/links/p5.png
+        desc: Discord desktop app themed portfolio website made using React and Vite!
+      - sitename: Personal Web V6
+        url: https://hello.lrmn.site/
+        img: /img/links/p6.png
+        desc: This site uses some CSS from Modesta.
+      - sitename: Sosial Link V1
         url: https://is-a.fun
+        img: /img/links/bio.png
+        desc: Tautan sosial media
+      - sitename: Sosial Link V2
+        url: https://hi.lrmn.site
         img: /img/links/bio.png
         desc: Tautan sosial media
       - sitename: Daily Dev
@@ -106,16 +172,20 @@ links:
         url: https://www.pagarrumahkita.my.id/
         img: /img/links/blogger.png
         desc: Personal blog Made with ❤️ using blogger.com
-      - sitename: VP 2
-        url: https://lrmn-vp.site/
-        img: /img/links/vp2.png
-        desc: gallery & blog photography video game
-      - sitename: VP 1
-        url: https://lrmn-vp.is-a.fun/
-        img: /img/links/vp.png
-        desc: gallery & blog photography video game
       - sitename: Penikmat Kata
         url: https://istirahatsejenak.is-a.fun/
         img: /img/links/istirahatsejenak.png
         desc: Hanya penikmat kata yang akan menjadi kalimat pada akhirnya.
+      - sitename: Discord Server
+        url: https://discord.gg/WFfjrQxnfH
+        img: /img/links/discord.jpg
+        desc: Discord Server | Let's play and chit chat together!
+      - sitename: Photography V1
+        url: https://lrmn-vp.is-a.fun/
+        img: /img/links/vp.png
+        desc: gallery & blog photography video game.
+      - sitename: Photography V2
+        url: https://lrmn-vp.site/
+        img: /img/links/vp2.png
+        desc: gallery & blog photography video game.
 ---
