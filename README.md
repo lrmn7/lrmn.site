@@ -37,7 +37,7 @@
 
 Support me
 
-- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn)
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/romanromannya)
 - 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
 - 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
 
