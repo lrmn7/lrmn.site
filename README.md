@@ -45,17 +45,12 @@ Support me
 
 # Hi! 🧐
 
-[![blog](https://img.shields.io/badge/Blog-LRMN-red?style=flat-square)](https://lrmn.is-a.dev/blogs) [![LRMN's blog](https://img.shields.io/badge/GitHub-blogs-6A7EC2?style=flat-square)](https://github.com/lrmn7/blogs) [![VuePress](https://img.shields.io/badge/VuePress-build-1aad19?style=flat-square)](https://github.com/vuejs/vuepress) [![vuepress-theme-gungnir](https://img.shields.io/badge/LRMN-theme-26a2ff?style=flat-square)](https://github.com/lrmn7/blogs) [![license](https://img.shields.io/badge/License-Apache--2.0-orange?style=flat-square)](LICENSE)
+[![blog](https://img.shields.io/badge/Blog-LRMN-red?style=flat-square)](https://lrmn.is-a.dev/blog) [![LRMN's blog](https://img.shields.io/badge/LRMN-DailyDev-6A7EC2?style=flat-square)](https://github.com/lrmn7/daily-dev) [![VuePress](https://img.shields.io/badge/VuePress-build-1aad19?style=flat-square)](https://github.com/vuejs/vuepress) [![license](https://img.shields.io/badge/License-Apache--2.0-orange?style=flat-square)](LICENSE)
 
 
 This is my blog, it is powered by [VuePress 2](https://v2.vuepress.vuejs.org/)
 
-It used be be built with:
-
-- [Jekyll](https://jekyllrb.com/): [[code]](https://github.com/lrmn7/blogs/tree/jekyll), [[theme]](https://github.com/lrmn7/blogs)
-- [VuePress 1](https://v2.vuepress.vuejs.org): [[code]](https://github.com/lrmn7/blogs/tree/vuepress-v1), [[theme]](https://github.com/lrmn7/blogs/)
-
-Any way, just have fun with this blog: [lrmn.is-a.dev/blogs](https://lrmn.is-a.dev/blogs/)
+Any way, just have fun with this blog: [lrmn.is-a.dev/daily-dev](https://lrmn.is-a.dev/daily-dev/)
 
 
 &nbsp;
