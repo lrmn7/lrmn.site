@@ -126,7 +126,7 @@ links:
         url: https://clarishabot.github.io/
         img: /img/links/clarisha.png
         desc: clarisha is a highly-opinionated midwestern self-hosted Discord music bot that doesn't suck.
-      - sitename: Santuy
+      - sitename: DRS ESPORT
         url: https://drs-esport.is-a.fun/
         img: /img/links/drsavatar.png
         desc: Advance multipurpose discord bot & gaming community server
