@@ -127,9 +127,9 @@ links:
         img: /img/links/clarisha.png
         desc: clarisha is a highly-opinionated midwestern self-hosted Discord music bot that doesn't suck.
       - sitename: Santuy
-        url: https://santuy.is-a.fun/
-        img: /img/links/santuy.png
-        desc: Advance Discord Music Bot |  Santuykan harimu dengan musik:)
+        url: https://drs-esport.is-a.fun/
+        img: /img/links/drsavatar.png
+        desc: Advance multipurpose discord bot & gaming community server
   - title: CONNECT WITH ME
     items:
       - sitename: Personal Web V1
